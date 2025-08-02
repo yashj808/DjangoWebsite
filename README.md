@@ -20,6 +20,7 @@ DjangoWebsite/
 │   ├── views.py
 │   ├── urls.py
 │   └── apps.py
+
 ✅ Features
 🧾 Home page using index.html
 
